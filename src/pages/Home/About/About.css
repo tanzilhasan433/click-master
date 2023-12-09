@@ -1,0 +1,12 @@
+
+.about {
+    list-style: none;
+    margin-bottom: 25px;
+}
+
+.about li:before {
+    content: "✓";
+    padding-right: 5px;
+    color: orangered;
+    font-weight: 700;
+}
